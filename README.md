@@ -61,6 +61,15 @@ Relacionamentos:
 Pertence a uma ORDEM_SERVICO (N:1)
 É realizado por um MECÂNICO (N:1)
 
+<br />
+<div>
+  <img 
+    alt="Versão Mobile"
+    src="https://github.com/nadiduno/mer-vehiculo/blob/main/mer-dados.png" 
+    width="70%"
+  >
+</div>
+<br />
 
 ### Este modelo garante que:
 ✔ As chaves primárias identifiquem unicamente cada registro
